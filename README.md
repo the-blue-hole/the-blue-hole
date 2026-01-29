@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @the-blue-hole
 - 👀 I’m interested in coding and drawing
 - 🌱 I’m currently learning coding and drawing
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me discord 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like scythe
 
